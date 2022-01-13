@@ -1,0 +1,9 @@
+public
+    css
+    js
+    storage
+    .htaccess
+    favicon.ico
+    index.php
+    mix-manifest.json
+    robots.txt
